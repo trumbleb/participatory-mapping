@@ -7,7 +7,7 @@ const app = express();
 
 // Define CORS options
 let corsOptions = {
-    origin: ['https://localhost', 'https://www.github.io', 'https://jakobzhao.github.io'],
+    origin: ['https://localhost', 'https://www.github.io', 'https://jakobzhao.github.io', 'https://trumblb.github.io'],
     optionsSuccessStatus: 200
 }
 
